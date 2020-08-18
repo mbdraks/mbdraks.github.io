@@ -42,7 +42,7 @@ Also enable FortiClient SSO Mobility Agent, define the secret key (it will be co
 Configure FSSO External Connector at *Security Fabric - External Connector*
 
 <div style="text-align:center; margin:30px 0">
-  <img src="/assets/images/01_auth/fgt-extconnector-fsso.png" class="img-fluid">
+  <img src="/assets/images/01_auth/fgt-extconnector-fsso.png" class="img-fluid" border="1">
 </div>
 
 Hit *Apply & Refresh* to see the groups obtained from FAC, then hit *OK*.
@@ -51,5 +51,5 @@ Hit *Apply & Refresh* to see the groups obtained from FAC, then hit *OK*.
 Go to *Dashboard - Users & Devices* and select *Show all FSSO Logons* to see the FSSO events received from FAC
 
 <div style="text-align:center; margin:30px 0">
-  <img src="/assets/images/01_auth/fgt-fsso-monitor.png" class="img-fluid">
+  <img src="/assets/images/01_auth/fgt-fsso-monitor.png" class="img-fluid" border="1">
 </div>
